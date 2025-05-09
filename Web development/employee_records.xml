@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<employees>
+    <employee>
+        <id>101</id>
+        <name>Alice Johnson</name>
+        <position>Software Engineer</position>
+        <salary>75000</salary>
+    </employee>
+    <employee>
+        <id>102</id>
+        <name>Bob Martinez</name>
+        <position>Project Manager</position>
+        <salary>88000</salary>
+    </employee>
+</employees>

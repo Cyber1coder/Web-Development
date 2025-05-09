@@ -1,0 +1,16 @@
+
+<?xml version="1.0"?>
+<bookstore>
+    <book>
+        <title>1984</title>
+        <author>George Orwell</author>
+        <price>9.99</price>
+        <isbn>9780451524935</isbn>
+    </book>
+    <book>
+        <title>Brave New World</title>
+        <author>Aldous Huxley</author>
+        <price>8.99</price>
+        <isbn>9780060850524</isbn>
+    </book>
+</bookstore>

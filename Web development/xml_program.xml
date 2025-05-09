@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<grades>
+    <student>
+        <id>1</id>
+        <name>John Doe</name>
+        <subject>Math</subject>
+        <grade>A</grade>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Jane Smith</name>
+        <subject>Science</subject>
+        <grade>B+</grade>
+    </student>
+</grades>
+
